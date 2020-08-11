@@ -70,12 +70,12 @@
 ## Notas
 Las notas oficiales se irán actualizando en SIDING.
 
-<!--
+
 ## Entregas atrasadas
 Tienen hasta 12 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
 
 Las actividades atrasadas no serán consideradas, por lo que se evaluarán con un 1.0.
--->
+
 
 ## Recorrección
 
