@@ -15,76 +15,60 @@
     - **P** debe ser mayor o igual a 3.95
 1. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 
-<!--
-
-## Esquema de trabajo
-Dado que cada laboratorio restante (L04, L05 y L06) tendrán un total de 3 semanas, seguiremos el siguiente esquema
-
-* Semana 1
-  - Lunes: Consolidación de materia del capítulo y taller de revisión ejercicios (Zoom)
-  - Jueves: Revisión de enunciado de laboratorio (Zoom)
-* Semana 2
-  - Lunes: Actividad de participación (Zoom - Discord)
-  - Jueves: Taller de revisión de ejercicios (Zoom - Discord)
-* Semana 3 (L03, L04 y L05)
-  - Lunes: Taller de trabajo Laboratorio (Discord)
-  - Jueves: Sesión de consultas de laboratorio (Discord)
-  
-Respecto a estos:
-
-* Consolidación de materia del capítulo y taller de revisión ejercicios: 
-Clase online con la consolidación del capítulo y luego la resolución online de problemas relacionados a la materia. Ambas instancias se realizarán a través de la plataforma Zoom.
-
-* Revisión de enunciado de laboratorio: 
-Clase online donde revisaremos el enunciado del laboratorio, se responderán las consultas y se entregaran ayudas de trabajo. Esta se realizará a través la plataforma Zoom.
-
-* Actividad de participación: 
-Se comenzará en la plataforma Zoom, donde se explicará el enunciado de la actividad y responderán las dudas de este. Luego, cambiaremos a la plataforma Discord, donde podrán resolver sus dudas de trabajo y mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord (explicado en el canal `#cola` del discord).
-
-* Taller de revisión de ejercicios: 
-Se realizará a través Zoom, y consistirá en la resolución de problemas relacionados a la materia.
-
-* Taller de trabajo Laboratorio y Sesión de consultas de laboratorio: 
-Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laboratorios y planteen dudas con respecto a estos. Además podrán mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord.
 
 ## Calendario 
-| Lab |	Instancia                                   | Fecha              | Módulo | Link |
-| :-: | -------------------------------------------- | ------------------ | :----: | :--: |
-| L03	| Revisión de enunciado (Zoom)	              | jueves 16 de abril |   5    | [Video](https://youtu.be/IeTMfeWyMeM) |
-| L03	| Consolidación de materia (Zoom)	           | lunes 20 de abril  |   4    | [Video](https://youtu.be/QMKm7rjYbGE) |
-| L03	| Taller de revisión de ejercicios (Zoom)	     | lunes 20 de abril  |   5    | [Video](https://youtu.be/QMKm7rjYbGE?t=5727) |
-| L03	| Taller de revisión de ejercicios (Zoom)	     | jueves 23 de abril |   5    | [Video](https://youtu.be/u4kHKk9ho5s) |
-|     | Semana de ajuste                             | lunes 27 de abril  |        | |
-|     | Semana de ajuste                             | jueves 30 de abril |        | |
-| L03	| Taller de trabajo Laboratorio (Discord)      | lunes 4 de mayo    |   4    | |
-| L03 | Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |   5    | |
-| L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	4    | [Video](https://youtu.be/qo4dz89hMzA) |
-| L04	| Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
-| L04	| Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	5    | [Video](https://youtu.be/Fw5Q5Trx1kg) |
-| L04	| Actividad de participación (Discord)         | lunes 18 de mayo   |  	4,5  | |
-|   	| Feriado                                      | jueves 21 de mayo  |	     | |
-|     | Semana de receso                             | lunes 25 de mayo   |	     | |
-|     | Semana de receso                             | jueves 28 de mayo  |	     | |
-| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	4,5  | |
-| L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    | |
-| L05 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    | [Video](https://youtu.be/w0wVRk-gwYA) |
-| L06 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	5    | [Video](https://youtu.be/dxhpOBuTpiE) |
-| L05 y L06 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    | [Video](https://youtu.be/nYE6Xgz3mQM) |
-| L05 y L06 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  | |
-| L05, L06 | Taller de revisión de ejercicios (Zoom)       | jueves 18 de junio |	5    | [Video](https://youtu.be/6EbZbu8LLbc) |
-| L05, L06 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
-| L05, L06 | Sesión de consultas de laboratorio (Discord)  | jueves 25 de junio |	5    |
-|     | Feriado                                      | lunes 29 de junio  |        | |
-| L06 | Taller de trabajo Laboratorio (Discord)            | jueves 2 de julio  |	4    |
 
--->
+| Lab |	Instancia                                   | Plataforma | Fecha                   | Módulo | Link |
+| :-: | -------------------------------------------- | :--------: | :---------------------: | :----: | :--: |
+| L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    | [Video](https://youtu.be/i3xxlNy-yQc) |
+| L01 | Consolidación de materia                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) |
+| L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    |      |
+| L01 | Sesión de trabajo en laboratorio             |  Discord   | lunes 17 de agosto      |   4,5  |      |
+| L01	| Actividad de participación                   |  Discord   | jueves 20 de agosto     |   5    |      |
+|     |                                              |            |                         |        |      |
+| L02 | Consolidación de materia                     |  Zoom      | lunes 24 de agosto      |   4    |      |
+| L02 | Taller de revisión de ejercicios             |  Zoom      | lunes 24 de agosto      |   5    |      |
+| L02 | Revisión de enunciado       	              |  Zoom      | jueves 27 de agosto     |   4    |      |
+| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 31 de agosto      |   4,5  |      |
+| L02	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 3 de septiembre  |   5    |      |
+| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 7 de septiembre   |   4,5  |      |
+| L02 | Actividad de participación                   |  Discord   | jueves 10 de septiembre |   5    |      |
+| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 14 de septiembre  |   4,5  |      |
+|     | Feriado                                      |            | jueves 17 de septiembre |   5    |      |
+|     |                                              |            |                         |        |      |
+| L03 | Consolidación de materia                     |  Zoom      | lunes 28 de septiembre  |   4    |      |
+| L03 | Taller de revisión de ejercicios             |  Zoom      | lunes 28 de septiembre  |   5    |      |
+| L03 | Revisión de enunciado       	              |  Zoom      | jueves 1 de octubre     |   4    |      |
+| L03 | Sesión de trabajo en laboratorio             |  Discord   | lunes 5 de octubre      |   4,5  |      |
+| L03	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 8 de octubre     |   5    |      |
+|     | Feriado                                      |            | lunes 12 de octubre     |   4,5  |      |
+| L03 | Actividad de participación                   |  Discord   | jueves 15 de octubre    |   5    |      |       
+|     |                                              |            |                         |        |      |
+| L04 | Consolidación de materia                     |  Zoom      | lunes 19 de octubre     |   4    |      |
+| L04 | Taller de revisión de ejercicios             |  Zoom      | lunes 19 de octubre     |   5    |      |
+| L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   4    |      |
+| L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 26 de octubre     |   4,5  |      |
+| L04	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 29 de octubre    |   5    |      |
+| L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
+| L04 | Actividad de participación                   |  Discord   | jueves 5 de noviembre   |   5    |      |
+|     |                                              |            |                         |        |      |
+| L05 | Consolidación de materia                     |  Zoom      | lunes 9 de noviembre    |   4    |      |
+| L05 | Taller de revisión de ejercicios             |  Zoom      | lunes 9 de noviembre    |   5    |      |
+| L05 | Revisión de enunciado       	              |  Zoom      | jueves 12 de noviembre  |   4    |      |
+| L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 16 de noviembre   |   4,5  |      |
+| L05	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 19 de noviembre  |   5    |      |
+| L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 23 de noviembre   |   4,5  |      |
+| L05 | Actividad de participación                   |  Discord   | jueves 26 de noviembre  |   5    |      |
+
 
 ## Notas
 Las notas oficiales se irán actualizando en SIDING.
 
 <!--
 ## Entregas atrasadas
-Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
+Tienen hasta 12 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
+
+Las actividades atrasadas no serán consideradas, por lo que se evaluarán con un 1.0.
 -->
 
 ## Recorrección
