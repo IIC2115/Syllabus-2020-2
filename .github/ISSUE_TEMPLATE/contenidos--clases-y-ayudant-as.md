@@ -1,5 +1,5 @@
 ---
-name: Contenidos, clases y ayudantías
+name: Laboratorios, contenidos, clases y ayudantías
 about: "¿Dudas sobre el contenido de los apuntes? ¿Un ejercicio de Laboratorio o Actividad?
   ¿Algo de las clases?"
 title: "¿Qué problema tienes? Especifica la pregunta y una descripción del problema"
