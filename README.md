@@ -20,8 +20,8 @@
 
 | Lab |	Instancia                                   | Plataforma | Fecha                   | Módulo | Link |
 | :-: | -------------------------------------------- | :--------: | :---------------------: | :----: | :--: |
-| L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    |      |
-| L01 | Consolidación de materia                     |  Zoom      | lunes 10 de agosto      |   5    |      |
+| L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    | [Video](https://youtu.be/i3xxlNy-yQc) |
+| L01 | Consolidación de materia                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) |
 | L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   4    |      |
 | L01 | Sesión de trabajo en laboratorio             |  Discord   | lunes 17 de agosto      |   4,5  |      |
 | L01	| Actividad de participación                   |  Discord   | jueves 20 de agosto     |   5    |      |
