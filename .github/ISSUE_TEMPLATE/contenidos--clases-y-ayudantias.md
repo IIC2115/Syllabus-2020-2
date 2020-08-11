@@ -2,7 +2,7 @@
 name: Contenidos, clases y ayudantías
 about: "Dudas sobre Contenidos, clases y ayudantías"
 title: "¿Qué duda tienes? Especifica la pregunta y una descripción del problema"
-labels: ''
+labels: 'Materia'
 assignees: ''
 
 ---

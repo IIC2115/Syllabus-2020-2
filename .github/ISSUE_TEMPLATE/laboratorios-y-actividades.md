@@ -2,7 +2,7 @@
 name: Laboratorios y actividades
 about: "Dudas sobre los ejercicios de laboratorios o actividades"
 title: "¿Qué duda tienes? Especifica la pregunta y una descripción del problema"
-labels: ''
+labels: 'Ejercicios'
 assignees: ''
 
 ---
