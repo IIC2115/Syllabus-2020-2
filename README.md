@@ -38,8 +38,8 @@
 | L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 31 de agosto      |   4,5  |      |
 | L02	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 3 de septiembre  |   5    |      |
 | L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 7 de septiembre   |   4,5  |      |
-| L02 | Actividad de participación                   |  Discord   | jueves 10 de septiembre |   5    |      |
-| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 14 de septiembre  |   4,5  |      |
+| L02 | Sesión de trabajo en laboratorio             |  Discord   | jueves 10 de septiembre |   5    |      |
+| L02 | Actividad de participación                   |  Discord   | lunes 14 de septiembre  |   4,5  |      |
 |     | Feriado                                      |            | jueves 17 de septiembre |   5    |      |
 |     |                                              |            |                         |        |      |
 | L03 | Consolidación de materia                     |  Zoom      | lunes 28 de septiembre  |   4    |      |
