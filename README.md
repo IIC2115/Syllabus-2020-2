@@ -27,13 +27,13 @@
 | Lab |	Instancia                                   | Plataforma | Fecha                   | Módulo | Link |
 | :-: | -------------------------------------------- | :--------: | :---------------------: | :----: | :--: |
 | L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    | [Video](https://youtu.be/i3xxlNy-yQc) |
-| L01 | Consolidación de materia                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) |
+| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) |
 | L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) |
 | L01 | Sesión de trabajo en laboratorio             |  Discord   | lunes 17 de agosto      |   4,5  |      |
 | L01	| Actividad de participación                   |  Discord   | jueves 20 de agosto     |   5    |      |
 |     |                                              |            |                         |        |      |
-| L02 | Consolidación de materia                     |  Zoom      | lunes 24 de agosto      |   4    |      |
-| L02 | Taller de revisión de ejercicios             |  Zoom      | lunes 24 de agosto      |   5    |      |
+| L02 | Resumen materia capítulo: parte 1            |  Zoom      | lunes 24 de agosto      |   4    |      |
+| L02 | Resumen materia capítulo: parte 2            |  Zoom      | lunes 24 de agosto      |   5    |      |
 | L02 | Revisión de enunciado       	              |  Zoom      | jueves 27 de agosto     |   4    |      |
 | L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 31 de agosto      |   4,5  |      |
 | L02	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 3 de septiembre  |   5    |      |
@@ -42,7 +42,7 @@
 | L02 | Actividad de participación                   |  Discord   | lunes 14 de septiembre  |   4,5  |      |
 |     | Feriado                                      |            | jueves 17 de septiembre |   5    |      |
 |     |                                              |            |                         |        |      |
-| L03 | Consolidación de materia                     |  Zoom      | lunes 28 de septiembre  |   4    |      |
+| L03 | Resumen materia capítulo                     |  Zoom      | lunes 28 de septiembre  |   4    |      |
 | L03 | Taller de revisión de ejercicios             |  Zoom      | lunes 28 de septiembre  |   5    |      |
 | L03 | Revisión de enunciado       	              |  Zoom      | jueves 1 de octubre     |   4    |      |
 | L03 | Sesión de trabajo en laboratorio             |  Discord   | lunes 5 de octubre      |   4,5  |      |
@@ -50,7 +50,7 @@
 |     | Feriado                                      |            | lunes 12 de octubre     |   4,5  |      |
 | L03 | Actividad de participación                   |  Discord   | jueves 15 de octubre    |   5    |      |       
 |     |                                              |            |                         |        |      |
-| L04 | Consolidación de materia                     |  Zoom      | lunes 19 de octubre     |   4    |      |
+| L04 | Resumen materia capítulo                     |  Zoom      | lunes 19 de octubre     |   4    |      |
 | L04 | Taller de revisión de ejercicios             |  Zoom      | lunes 19 de octubre     |   5    |      |
 | L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   4    |      |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 26 de octubre     |   4,5  |      |
@@ -58,7 +58,7 @@
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
 | L04 | Actividad de participación                   |  Discord   | jueves 5 de noviembre   |   5    |      |
 |     |                                              |            |                         |        |      |
-| L05 | Consolidación de materia                     |  Zoom      | lunes 9 de noviembre    |   4    |      |
+| L05 | Resumen materia capítulo                     |  Zoom      | lunes 9 de noviembre    |   4    |      |
 | L05 | Taller de revisión de ejercicios             |  Zoom      | lunes 9 de noviembre    |   5    |      |
 | L05 | Revisión de enunciado       	              |  Zoom      | jueves 12 de noviembre  |   4    |      |
 | L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 16 de noviembre   |   4,5  |      |
