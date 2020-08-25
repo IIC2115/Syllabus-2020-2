@@ -24,16 +24,16 @@
 
 ## Calendario 
 
-| Lab |	Instancia                                   | Plataforma | Fecha                   | Módulo | Link |
+| Lab |	Instancia                                   | Plataforma | Fecha                   | Módulo | Recursos |
 | :-: | -------------------------------------------- | :--------: | :---------------------: | :----: | :--: |
-| L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    | [Video](https://youtu.be/i3xxlNy-yQc) |
-| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) |
-| L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) |
+| L01 | Introducción e información administrativa    |  Zoom      | lunes 10 de agosto      |   4    | [Video](https://youtu.be/i3xxlNy-yQc) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción.pdf)|
+| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción.pdf)|
+| L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) - [Enunciado](../../blob/master/Laboratorios/L01.pdf)|
 | L01 | Sesión de trabajo en laboratorio             |  Discord   | lunes 17 de agosto      |   4,5  |      |
 | L01	| Actividad de participación                   |  Discord   | jueves 20 de agosto     |   5    |      |
 |     |                                              |            |                         |        |      |
-| L02 | Resumen materia capítulo: parte 1            |  Zoom      | lunes 24 de agosto      |   4    |      |
-| L02 | Resumen materia capítulo: parte 2            |  Zoom      | lunes 24 de agosto      |   5    |      |
+| L02 | Resumen materia capítulo: parte 1            |  Zoom      | lunes 24 de agosto      |   4    | [Video](https://youtu.be/kSoDgmocaB0) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Resumen%20Capítulo%202%20-%20Parte%201%20-%20Estructuras%20de%20datos.pdf) |
+| L02 | Resumen materia capítulo: parte 2            |  Zoom      | lunes 24 de agosto      |   5    | [Video](https://youtu.be/WrG-VHqEKt4) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Resumen%20Capítulo%202%20-%20Parte%202%20-%20Técnicas%20y%20Algoritmos.pdf) |
 | L02 | Revisión de enunciado       	              |  Zoom      | jueves 27 de agosto     |   4    |      |
 | L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 31 de agosto      |   4,5  |      |
 | L02	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 3 de septiembre  |   5    |      |
