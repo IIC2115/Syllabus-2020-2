@@ -42,7 +42,7 @@
 | L02 | Actividad de participación                   |  Discord   | lunes 14 de septiembre  |   4,5  |      |
 |     | Feriado                                      |            | jueves 17 de septiembre |   5    |      |
 |     |                                              |            |                         |        |      |
-| L03 | Resumen materia capítulo                     |  Zoom      | lunes 28 de septiembre  |   4    |      |
+| L03 | Resumen materia capítulo                     |  Zoom      | lunes 28 de septiembre  |   4    |[Slides](https://github.com/IIC2115/Syllabus/blob/master/Material%20de%20clases/Cap%C3%ADtulo%203/Resumen%20Capitulo%203.pdf)      |
 | L03 | Taller de revisión de ejercicios             |  Zoom      | lunes 28 de septiembre  |   5    |      |
 | L03 | Revisión de enunciado       	              |  Zoom      | jueves 1 de octubre     |   4    |      |
 | L03 | Sesión de trabajo en laboratorio             |  Discord   | lunes 5 de octubre      |   4,5  |      |
