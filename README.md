@@ -46,7 +46,7 @@
 | L03 | Taller de revisión de ejercicios             |  Zoom      | lunes 28 de septiembre  |   5    | [Video](https://youtu.be/8QvPQ2ne0sE) - [Ejemplos](../../blob/master/Material%20de%20clases/Cap%C3%ADtulo%203/Ejemplos/) |
 | L03 | Revisión de enunciado       	              |  Zoom      | jueves 1 de octubre     |   5    | [Video](https://youtu.be/gWaBaDlJn_Y) - [Enunciado](../../blob/master/Laboratorios/L03/L03.pdf)    |
 | L03 | Sesión de trabajo en laboratorio             |  Discord   | lunes 5 de octubre      |   4,5  |      |
-| L03	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 8 de octubre     |   5    |      |
+| L03	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 8 de octubre     |   5    | [Video](https://youtu.be/7KuTrFbWXLc) - [Enunciado](../../blob/master/Ayudantías/Ayudantía%202/Enunciado.pdf) |
 |     | Feriado                                      |            | lunes 12 de octubre     |   4,5  |      |
 | L03 | Actividad de participación                   |  Discord   | jueves 15 de octubre    |   5    |      |       
 |     |                                              |            |                         |        |      |
