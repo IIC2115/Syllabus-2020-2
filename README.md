@@ -60,7 +60,7 @@
 |     |                                              |            |                         |        |      |
 | L05 | Resumen materia capítulo                     |  Zoom      | lunes 9 de noviembre    |   4    |      |
 | L05 | Taller de revisión de ejercicios             |  Zoom      | lunes 9 de noviembre    |   5    |      |
-| L05 | Revisión de enunciado       	              |  Zoom      | jueves 12 de noviembre  |   4    |      |
+| L05 | Revisión de enunciado       	              |  Zoom      | jueves 12 de noviembre  |   5    |      |
 | L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 16 de noviembre   |   4,5  |      |
 | L05	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 19 de noviembre  |   5    |      |
 | L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 23 de noviembre   |   4,5  |      |
