@@ -52,7 +52,7 @@
 |     |                                              |            |                         |        |      |
 | L04 | Resumen materia capítulo                     |  Zoom      | lunes 19 de octubre     |   4    | [Video](https://youtu.be/CQjZokFB85Y) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%204/Slides/Resumen%20Capítulo%204%20-%20Análisis%20Exploratorio%20de%20Datos.pdf)|
 | L04 | Taller de revisión de ejercicios             |  Zoom      | lunes 19 de octubre     |   5    | [Video](https://youtu.be/WKhPoLe1ZsQ) - [Ejemplos](../../tree/master/Material%20de%20clases/Capítulo%204/)     |
-| L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   5    |      |
+| L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   5    | [Video](https://youtu.be/FQXo1Ypeulo) - [Enunciado](../../blob/master/Laboratorios/L04/L04.pdf)     |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 26 de octubre     |   4,5  |      |
 | L04	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 29 de octubre    |   5    |      |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
