@@ -54,7 +54,7 @@
 | L04 | Taller de revisión de ejercicios             |  Zoom      | lunes 19 de octubre     |   5    | [Video](https://youtu.be/WKhPoLe1ZsQ) - [Ejemplos](../../tree/master/Material%20de%20clases/Capítulo%204/)     |
 | L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   5    | [Video](https://youtu.be/FQXo1Ypeulo) - [Enunciado](../../blob/master/Laboratorios/L04/L04.pdf)     |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 26 de octubre     |   4,5  |      |
-| L04	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 29 de octubre    |   5    |  [Solución](https://github.com/IIC2115/Syllabus/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203/Ayudant%C3%ADa%203.ipynb)    |
+| L04	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 29 de octubre    |   5    |  [Video](https://youtu.be/Yanq1oKbSSw) - [Solución](https://github.com/IIC2115/Syllabus/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203/Ayudant%C3%ADa%203.ipynb)    |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
 | L04 | Actividad de participación                   |  Discord   | jueves 5 de noviembre   |   5    |      |
 |     |                                              |            |                         |        |      |
