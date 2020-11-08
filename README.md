@@ -58,7 +58,7 @@
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
 | L04 | Actividad de participación                   |  Discord   | jueves 5 de noviembre   |   5    |      |
 | L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 9 de noviembre    |   4,5  |      |
-| L04 | Sesión de trabajo en laboratorio             |  Discord   | jueves 5 de noviembre   |   5    |      |
+| L04 | Sesión de trabajo en laboratorio             |  Discord   | jueves 12 de noviembre   |   5    |      |
 |     |                                              |            |                         |        |      |
 | L05 | Resumen materia capítulo                     |  Zoom      | lunes 16 de noviembre    |   4    |      |
 | L05 | Taller de revisión de ejercicios             |  Zoom      | lunes 16 de noviembre    |   5    |      |
