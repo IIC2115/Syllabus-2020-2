@@ -69,7 +69,7 @@
 
 
 ## Notas
-Las notas oficiales se irán actualizando en SIDING.
+Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
 
 
 ## Entregas atrasadas
@@ -83,6 +83,7 @@ Las actividades atrasadas no serán consideradas, por lo que se evaluarán con u
 Si quiere recorregir, para todos los laboratorios y actividades contará con una semana desde que se publica el feedback en sus repositorios (a menos que se avise otro plazo de forma oficial), es decir, si el feedback se publica un lunes (entre las 0:00 y 23:59) tendrá plazo hasta el próximo lunes a las 23:59.
 * Solo puede mandar a recorregir por [este formulario](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg).
 * No se aceptarán correos para solicitar recorrección ni solicitudes fuera de plazo.
+* Sea explícito en lo que desea recorregir, brindando los argumentos correspondientes, solicitudes del tipo "Revisar todo nuevamente", o "Debiera tener mayor puntaje" no serán consideradas.
 * Tenga en cuenta que al recorregir su nota puede subir, bajar o mantenerse.
 * El profesor/ayudante que revise su solicitud tiene la facultad de modificar puntaje en apartados no solicitados por el alumno. 
 * La calificación obtenida luego de la recorrección no es apelable, la nota se actualizará en la planilla oficial y se publicará otro feedback respecto a la recorrección en las issues de su repositorio privado.
